@@ -1,0 +1,48 @@
+h1 { color: blue }
+
+body {
+background: gray;
+color: black;
+font-size: 14pt;
+font-family: 'Open Sans', sans-serif;
+}
+
+h1 { font-size: 250%;
+font-weight: bold;
+color: black;
+}
+
+h2 { font-size: 100%; font-style: italic; }
+text-decoration: underline;
+}
+
+ a { color: darkened;
+ text-decoration: none;}
+ a:hover {color: red; }
+ 
+ nav li { display: inline-block }
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+
